@@ -1,0 +1,8 @@
+[package]
+name = "blowfishj-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hex = "0.4"
+ripemd = "0.1.3"
